@@ -36,7 +36,7 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
-    I want to try how it work for real
+    I want to try how it work for real. I just want to create a repository and and the different version of my files to be able to track the different changes that I made to them.
 
 How can you use the commands git log and git diff to view the history of files?
     git log --stat
