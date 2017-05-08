@@ -3,9 +3,11 @@ when you initialize a repository you declare that this the files from that taht 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+R- The staging area is where the user add it's recent changes before commiting while in the working directory the user perfoms its changes.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+by adding one element at a time with the command git add, you can be sure that you have one commit per logical change
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
