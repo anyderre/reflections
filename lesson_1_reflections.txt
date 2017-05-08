@@ -2,23 +2,26 @@ How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
     Fill in your answer here
+    It help me seeing them because it show me the last lines I have changed, in this case it's prety esasy to take in account the bugs.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
     Fill in your answer here
+    As a programmer you are always in a process of learning so having an entire history of a file is a great way to see how we progress during that file lifetime. Always it's an easy way too to have a good control of what we are doing.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
     Fill in your answer here
+    Doing it manually have it pros and cons the pros are that we are free to choose when to save our file, the cons is that if something happen as the computer turn off suddenly, we can lose our reent change to the file. 
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
     Fill in your answer here
-
+    It is because git can be use to manage project with many different type of file who work together in some way to make the project work properly.
 How can you use the commands git log and git diff to view the history of files?
 
     Fill in your answer here
@@ -27,7 +30,17 @@ How might using version control make you more confident to make changes that
 could break something?
 
     Fill in your answer here
+    Becase you know you can back if you did something wrong you can travel between the version of that file easily
+
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
+    I want to try how it work for real
+
+How can you use the commands git log and git diff to view the history of files?
+    git log --stat
+    git diff id1 id2
+
+    They can be use to show the commits that has been doing during project lifetime and can be use to see the difference beetween those commits
+    
