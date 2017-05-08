@@ -30,7 +30,7 @@ How might using version control make you more confident to make changes that
 could break something?
 
     Fill in your answer here
-    Becase you know you can back if you did something wrong you can travel between the version of that file easily
+    Becase you know you can back if you did something wrong you can travel between the version of that file easily. This is why I I think that it's important
 
 
 Now that you have your workspace set up, what do you want to try using Git for?
